@@ -21,12 +21,7 @@ My passion is creating effective, user-centric solutions.
 ### 
 
 ### Links:
-
-### <a href="https://www.github.com/yobuir">github</a> | <a href="">linkedin</a>
-
-## 👇 Few things about me
-
-
+<a href="https://www.linkedin.com/in/yobu/">linkedin</a>
 <div>
 
             

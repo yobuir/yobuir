@@ -13,7 +13,7 @@ My passion is creating effective, user-centric solutions.
 <a href="https://www.tublian.com/profile/yobuir?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/yobuir?type=with_score"></a>
 
 ### My Stack:
-Software devlopment (mobile & web apps)
+Software development (mobile & web apps)
 ### 
 
 ### 

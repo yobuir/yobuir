@@ -6,7 +6,7 @@
 Let’s connect—I’m always open to learning, sharing, and new opportunities.
 
 Website: [Visiit my website](https://irayobu.me/)
-📬 Email: [yobuir@gmail.com](mailto:yobuir@gmail.com) 
+📬 Email: [hello@irayobu.me](mailto:hello@irayobu.me) 
 <div>
 
             

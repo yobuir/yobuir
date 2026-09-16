@@ -5,7 +5,7 @@
  Right now, I’m focused on growing as a developer, exploring cloud and AI, and contributing to projects that create real value.
 Let’s connect—I’m always open to learning, sharing, and new opportunities.
 
-Website: [Visiit my website](yobuira.me)
+Website: [Visiit my website](https://www.yobuira.me/)
 📬 Email: [hello@irayobu.me](mailto:hello@yobuira.me) 
 <div>
 
